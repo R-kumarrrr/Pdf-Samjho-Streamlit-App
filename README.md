@@ -9,17 +9,17 @@ This Streamlit app lets you upload a PDF, translates the English content into Hi
 🔊 Generate and play audio of the translated Hindi text
 
 ## ⚙️ Setup
-1. Clone the repository
+1.Clone the repository
 
 git clone https://github.com/R-kumarrrr/Pdf-Samjho-Streamlit-App.git <br>
 cd your-repo
 
-2. Create and activate a virtual environment
+2.Create and activate a virtual environment
 
 python3 -m venv venv <br>
 source venv/bin/activate  
 
-3. Install dependencies
+3.Install dependencies
 
 pip install -r requirements.txt
 
@@ -35,9 +35,9 @@ streamlit run app.py
 <img width="1440" alt="Screenshot 2025-06-20 at 3 34 09 PM" src="https://github.com/user-attachments/assets/cbb1e24a-d4fb-4455-9845-af650e2c4b71" />
 
 ## 🧑‍💻 Usage
-1. Open the app in your browser (usually at http://localhost:8501).
+1.Open the app in your browser (usually at http://localhost:8501).
 
-2. Upload a PDF file.
+2.Upload a PDF file.
 
-3. The app will extract the text, translate it to Hindi, and generate an audio playback.
+3.The app will extract the text, translate it to Hindi, and generate an audio playback.
 
