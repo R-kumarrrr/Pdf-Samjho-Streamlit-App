@@ -1,6 +1,5 @@
 ## Live app
-https://github.com/R-kumarrrr/Pdf-Samjho-Streamlit-App
-
+https://pdf-samjho-app-app-nxk9xfkkamm5b5ovouhbxi.streamlit.app
 
 # 📄 PDF Translator & Audio Generator
 This Streamlit app lets you upload a PDF, translates the English content into Hindi, and generates an audio narration from the translated text.
